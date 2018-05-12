@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3612
     wikipedia: http://en.wikipedia.org/wiki/James_Henry_Leigh_Hunt
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/28260#Captain-Sword-and-Captain-PenA-Poem
 gutenberg_issued: '2009-03-06'
 gutenberg_type: Text
 identifiers:
