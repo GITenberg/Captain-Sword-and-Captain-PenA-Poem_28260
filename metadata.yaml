@@ -1,0 +1,30 @@
+_repo: Captain-Sword-and-Captain-PenA-Poem_28260
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hunt, Leigh
+    alias: Hunt, James Henry Leigh
+    birthdate: 1784
+    deathdate: 1859
+    gutenberg_agent_id: '3612'
+    url: http://www.gutenberg.org/2009/agents/3612
+    wikipedia: http://en.wikipedia.org/wiki/James_Henry_Leigh_Hunt
+description: ''
+gutenberg_issued: '2009-03-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28260'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'War poetry, English'
+- !lcsh 'Peace -- Poetry'
+- !lcsh 'Protest poetry, English'
+- !lcc 'PR'
+title: 'Captain Sword and Captain Pen: A Poem'
+url: http://www.gutenberg.org/ebooks/28260
